@@ -1,12 +1,12 @@
 {
-  "id": "MAP_SILENT_TOWN",
-  "name": "Silent_Town",
-  "layout": "LAYOUT_SILENT_TOWN",
-  "music": "MUS_RG_PALLET",
-  "region_map_section": "MAPSEC_LITTLEROOT_TOWN",
+  "id": "MAP_RU102",
+  "name": "Ru102",
+  "layout": "LAYOUT_R102",
+  "music": "MUS_RG_ROUTE3",
+  "region_map_section": "MAPSEC_ROUTE_102",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
-  "map_type": "MAP_TYPE_TOWN",
+  "map_type": "MAP_TYPE_ROUTE",
   "allow_cycling": true,
   "allow_escaping": false,
   "allow_running": true,
@@ -14,8 +14,13 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_RU101",
-      "offset": -18,
+      "map": "MAP_PAGOTA_CITY",
+      "offset": 9,
+      "direction": "right"
+    },
+    {
+      "map": "MAP_WESTPORT_CITY",
+      "offset": -1,
       "direction": "left"
     }
   ],

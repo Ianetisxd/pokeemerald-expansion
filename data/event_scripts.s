@@ -1160,3 +1160,11 @@ EventScript_VsSeekerChargingDone::
 	.include "data/scripts/dexnav.inc"
 
 	.include "data/maps/Silent_Town/scripts.inc"
+
+	.include "data/maps/Ru101/scripts.inc"
+
+	.include "data/maps/Pagota_City/scripts.inc"
+
+	.include "data/maps/Westport_City/scripts.inc"
+
+	.include "data/maps/Ru102/scripts.inc"

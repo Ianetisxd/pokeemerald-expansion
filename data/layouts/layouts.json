@@ -4420,6 +4420,46 @@
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/SilentTown/border.bin",
       "blockdata_filepath": "data/layouts/SilentTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_R101",
+      "name": "R101",
+      "width": 77,
+      "height": 48,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/R101/border.bin",
+      "blockdata_filepath": "data/layouts/R101/map.bin"
+    },
+    {
+      "id": "LAYOUT_PAGOTA",
+      "name": "Pagota",
+      "width": 44,
+      "height": 38,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/Pagota/border.bin",
+      "blockdata_filepath": "data/layouts/Pagota/map.bin"
+    },
+    {
+      "id": "LAYOUT_WESTPORT",
+      "name": "Westport",
+      "width": 49,
+      "height": 44,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Dewford",
+      "border_filepath": "data/layouts/Westport/border.bin",
+      "blockdata_filepath": "data/layouts/Westport/map.bin"
+    },
+    {
+      "id": "LAYOUT_R102",
+      "name": "R102",
+      "width": 70,
+      "height": 45,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/R102/border.bin",
+      "blockdata_filepath": "data/layouts/R102/map.bin"
     }
   ]
 }
